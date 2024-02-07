@@ -1,9 +1,10 @@
 SCT212-0577/2022
 NJENGA VIONA NJERI
+COMPUTER TECHNOLOGY
+DATA STRUCTURES AND ALGORITHM
+ASSIGNMENT 1
 
 
-Data structures and Algorithm
-Assignment
 Quiz 1 - Programming language used: Python
 Quiz 1.1 - "removeDuplicates" : takes a sorted vector and modifies it to remove duplicates
 Quiz1.1 - "unique index" : keeps track of the last unique element, and the loop iterates through the array
