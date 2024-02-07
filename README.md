@@ -1,3 +1,7 @@
+SCT212-0577/2022
+NJENGA VIONA NJERI
+
+
 Data structures and Algorithm
 Assignment
 Quiz 1 - Programming language used: Python
